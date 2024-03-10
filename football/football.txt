@@ -1,5 +1,0 @@
-all: The spherical object used to play the game.
-Goalposts: Two upright posts joined by a crossbar to form the goal that players aim to score into.
-Shin Guards: Protective gear worn by players to protect their shins from impact during tackles and kicks.
-Football Boots: Footwear designed specifically for playing football, featuring studs or cleats for traction on the playing surface.
-Goalkeeper Gloves: Worn by the goalkeeper for better grip and protection when catching or blocking the ball.

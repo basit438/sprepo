@@ -1,0 +1,8 @@
+Stick: A long, slender implement with a curved end used by players to hit the ball.
+Ball: The hard, spherical object used in gameplay.
+Goalposts: Two upright posts joined by a crossbar to form the goal that players aim to score into.
+Shin Guards: Protective gear worn by players to protect their shins from impact during tackles and hits.
+Mouthguard: Worn by players to protect the teeth and mouth from injury.
+Gloves: Worn by players for better grip on the stick and to protect the hands during play.
+Helmet: Headgear worn by players for protection against impact and injury.
+Goalkeeper Equipment: Includes additional protective gear such as leg guards, kickers, chest protectors, and helmets worn by the goalkeeper.
