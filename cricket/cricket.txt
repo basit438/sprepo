@@ -1,0 +1,10 @@
+Bat: Used by the batsman to hit the ball.
+Ball: Used by the bowler to bowl and by the batsman to hit.
+Stumps: Consist of three vertical posts topped by bails. Placed at each end of the pitch, they are used to determine if a batsman is out.
+Pads: Worn by the batsman to protect the legs from being hit by the ball.
+Gloves: Worn by the wicketkeeper and batsmen for protection and better grip.
+Helmet: Worn by batsmen and fielders for head protection.
+Thigh guards: Worn by batsmen for additional leg protection.
+Chest guard: Worn by batsmen for protection against fast bowling.
+Arm guard: Worn by batsmen for protection against fast bowling.
+Abdominal guard: Worn by batsmen for protection against fast bowling.
